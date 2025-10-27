@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png#gh-light-mode-only" height="96" alt="DerivKit logo">
+  <img src="../assets/logo.png" height="96" alt="DerivKit logo">
 </p>
 
 # DerivKit
