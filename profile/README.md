@@ -27,7 +27,10 @@ If you use **DerivKit** in your research, please cite it as follows:
 
 ```bibtex
 @software{sarcevic2025derivkit,
-  author       = {Nikolina Šarčević and Matthijs van der Wild and Cynthia Trendafilova and Bastien Carreres},
+  author       = {Nikolina Šarčević
+                  and Matthijs van der Wild
+                  and Cynthia Trendafilova
+                  and Bastien Carreres},
   title        = {derivkit: A Python Toolkit for Numerical Derivatives},
   year         = {2025},
   publisher    = {GitHub},
