@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/logo.png" height="96" alt="DerivKit logo">
+  <img src="https://github.com/derivkit/derivkit-logo/blob/main/png/logo-black.png" height="256" alt="DerivKit logo">
 </p>
 
 # DerivKit
