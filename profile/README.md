@@ -18,7 +18,7 @@ DerivKit grew out of practical needs in cosmological inference — combining fle
 
 ##  Key Repositories
 - [**derivkit**](https://github.com/derivkit/derivkit) — Core API for derivatives and forecasts  
-- [**derivkit-examples**](https://github.com/derivkit/examples) — Tutorials, demos, and benchmarks  
+- [**derivkit-demos**](https://github.com/derivkit/derivkit-demos) — Tutorials, demos, and benchmarks  
 
 ---
 
