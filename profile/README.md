@@ -27,46 +27,10 @@
 
 ## About
 
-DerivKit grew out of practical needs in cosmological inference, combining flexible derivative estimators with rigorous error control and clean, modern APIs.
-
-## Packages
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p>
-        <img src="../assets/logo-blue.png" height="20" alt="DerivKit blue logo" valign="middle">
-        <a href="https://github.com/derivkit/derivkit">
-          <span style="font-size:22px;"><strong><span style="color:#3b9ab2;">derivkit</span></strong></span>
-        </a>
-      </p>
-      <p>
-        Core Python package for numerical derivatives, Fisher forecasting,
-        DALI expansions, and scientific inference workflows.
-      </p>
-      <p>
-        <a href="https://github.com/derivkit/derivkit"><strong>View repository →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p>
-        <img src="../assets/logo-red.png" height="20" alt="DerivKit red logo" valign="middle">
-        <a href="https://github.com/derivkit/derivkit-demos">
-          <span style="font-size:22px;"><strong><span style="color:#f21901;">derivkit-demos</span></strong></span>
-        </a>
-      </p>
-      <p>
-        Tutorials, worked examples, and practical demonstrations
-        for learning and testing DerivKit in real workflows.
-      </p>
-      <p>
-        <a href="https://github.com/derivkit/derivkit-demos"><strong>View repository →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
+DerivKit grew out of practical needs in cosmological inference, combining flexible derivative estimators
+with rigorous error control and clean, modern APIs. While it was developed with cosmology in mind, DerivKit 
+is fully problem-agnostic: it can be used for numerical derivatives, inference, and forecasting across a wide
+range of scientific and technical applications.
 
 ## Citation
 
@@ -84,7 +48,38 @@ If you use **DerivKit** in your research, please cite:
 }
 ```
 
----
+## Packages
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <img src="../assets/logo-blue.png" height="20" alt="DerivKit blue logo" valign="middle">
+        <a href="https://github.com/derivkit/derivkit">derivkit</a>
+      </h3>
+      <p>
+        Core Python package for numerical derivatives, Fisher forecasting,
+        DALI expansions, and scientific inference workflows.
+      </p>
+      <p>
+        <a href="https://github.com/derivkit/derivkit"><strong>View repository →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <img src="../assets/logo-red.png" height="20" alt="DerivKit red logo" valign="middle">
+        <a href="https://github.com/derivkit/derivkit-demos">derivkit-demos</a>
+      </h3>
+      <p>
+        Tutorials, worked examples, and practical demonstrations
+        for learning and testing DerivKit in real workflows.
+      </p>
+      <p>
+        <a href="https://github.com/derivkit/derivkit-demos"><strong>View repository →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ##  License and Maintenance
 DerivKit is released under the **MIT License** and actively maintained by  
