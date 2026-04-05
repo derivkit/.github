@@ -15,16 +15,15 @@
 
 <p align="center">
   <a href="https://docs.derivkit.org">
-    <img src="https://img.shields.io/badge/Documentation-3b9ab2?style=flat-square" alt="Documentation">
+    <img src="https://img.shields.io/badge/Documentation-3b9ab2?style=for-the-badge" alt="Documentation">
   </a>
   <a href="https://derivkit.org">
-    <img src="https://img.shields.io/badge/Website-e1af00?style=flat-square" alt="Website">
+    <img src="https://img.shields.io/badge/Website-e1af00?style=for-the-badge" alt="Website">
   </a>
   <a href="https://github.com/derivkit/derivkit">
-    <img src="https://img.shields.io/badge/Source%20Code-f21901?style=flat-square" alt="Source Code">
+    <img src="https://img.shields.io/badge/Source%20Code-f21901?style=for-the-badge" alt="Source Code">
   </a>
 </p>
-
 
 ## About
 
