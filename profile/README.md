@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo_black.png" height="100" alt="DerivKit logo">
+  <img src="../assets/logo-black.png" height="100" alt="DerivKit logo">
 </p>
 
 <h1 align="center">DerivKit</h1>
@@ -36,7 +36,7 @@ DerivKit grew out of practical needs in cosmological inference, combining flexib
   <tr>
     <td width="50%" valign="top">
       <p>
-        <img src="./assets/logo-blue.png" height="20" alt="DerivKit blue logo" valign="middle">
+        <img src="../assets/logo-blue.png" height="20" alt="DerivKit blue logo" valign="middle">
         <a href="https://github.com/derivkit/derivkit">
           <span style="font-size:22px;"><strong><span style="color:#3b9ab2;">derivkit</span></strong></span>
         </a>
@@ -51,7 +51,7 @@ DerivKit grew out of practical needs in cosmological inference, combining flexib
     </td>
     <td width="50%" valign="top">
       <p>
-        <img src="./assets/logo-red.png" height="20" alt="DerivKit red logo" valign="middle">
+        <img src="../assets/logo-red.png" height="20" alt="DerivKit red logo" valign="middle">
         <a href="https://github.com/derivkit/derivkit-demos">
           <span style="font-size:22px;"><strong><span style="color:#f21901;">derivkit-demos</span></strong></span>
         </a>
