@@ -57,7 +57,7 @@ DerivKit grew out of practical needs in cosmological inference, combining flexib
         </a>
       </p>
       <p>
-        Tutorials, worked examples, benchmarks, and practical demonstrations
+        Tutorials, worked examples, and practical demonstrations
         for learning and testing DerivKit in real workflows.
       </p>
       <p>
